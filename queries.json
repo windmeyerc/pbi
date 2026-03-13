@@ -1,0 +1,5 @@
+{
+  "1": "EVALUATE TOPN(10, 'Sales'[Product], 'Sales'[Quantity])",
+  "2": "EVALUATE SUM('Sales'[Revenue])",
+  "3": "EVALUATE AVERAGE('Sales'[Price])"
+}
